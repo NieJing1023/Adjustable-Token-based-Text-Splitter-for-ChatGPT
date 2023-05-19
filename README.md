@@ -11,3 +11,11 @@ While there are existing solutions available online, they lack the ability to ad
 Our text splitter stands out by allowing users to specify the desired token limit for the split text. If the generated text chunks still exceed ChatGPT's requirements, they can be easily re-split to fit within the constraints. This tool is designed to support all languages in theory.
 
 Please note that this code was written by ChatGPT-4 with my assistance in providing guidance.
+
+## Download the Compiled EXE File
+
+I have uploaded the compiled EXE file to Google Drive. If you'd like to download and run the program without having to install Python, please click on the following link:
+
+[Download EXE File](https://drive.google.com/file/d/1pm755u1PWvLOCmcU7axVcoKg2La-3VQJ/view)
+
+After downloading, extract (if necessary) and run the EXE file to use the program.
